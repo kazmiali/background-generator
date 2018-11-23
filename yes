@@ -1,0 +1,50 @@
+[33mcommit 221d685d85c0d7624ed31b00d17fe839055e7b52[m[33m ([m[1;36mHEAD -> [m[1;32mbigfeature[m[33m)[m
+Author: Kaaazmi <39811688+Kaaazmi@users.noreply.github.com>
+Date:   Sat Nov 24 03:25:32 2018 +0500
+
+    Reverting back to the old title
+
+[33mcommit 049c077483bb4c3371ac49c88a26f84bb9889adb[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 9e17926 ad4b866
+Author: Muhammad Ali Kazmi <39811688+Kaaazmi@users.noreply.github.com>
+Date:   Sat Nov 24 03:16:51 2018 +0500
+
+    Merge pull request #1 from Kaaazmi/littlefeatire
+    
+    Changing text
+
+[33mcommit ad4b866d40b3e82f3c8265ce85c972f859ca10f7[m
+Author: Kaaazmi <39811688+Kaaazmi@users.noreply.github.com>
+Date:   Sat Nov 24 03:04:23 2018 +0500
+
+    Changing text
+
+[33mcommit 9e179264b61978e2f56f913aa985844ad3c73640[m
+Author: Kaaazmi <39811688+Kaaazmi@users.noreply.github.com>
+Date:   Tue Nov 20 22:54:35 2018 +0500
+
+    finally the thing is working
+
+[33mcommit 6850b6453cee4c00d7ad44b448aa4dfa40695bf0[m
+Author: Kaaazmi <39811688+Kaaazmi@users.noreply.github.com>
+Date:   Tue Nov 20 22:51:09 2018 +0500
+
+    just tried to check if Ali folder is working
+
+[33mcommit b3b328dbf06b447953e0cb8127b837a0a0d8fa48[m
+Author: Kaaazmi <39811688+Kaaazmi@users.noreply.github.com>
+Date:   Tue Nov 20 22:33:37 2018 +0500
+
+    changing title h2
+
+[33mcommit 3769fbda03b66b236e82d61273a2258eab05533c[m
+Author: Kaaazmi <39811688+Kaaazmi@users.noreply.github.com>
+Date:   Tue Nov 20 22:17:06 2018 +0500
+
+    'Adding'
+
+[33mcommit c02dd7ed92dc0b892e28d3b097a9007afac0c422[m
+Author: Kaaazmi <39811688+Kaaazmi@users.noreply.github.com>
+Date:   Tue Nov 20 21:20:13 2018 +0500
+
+    Initial commit
